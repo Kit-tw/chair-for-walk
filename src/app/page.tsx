@@ -1,11 +1,7 @@
 "use client";
 import Image from "next/image";
 import Link from "next/link";
-import WalkerModel from "./components/walkerModel";
-import WheelchairModel from "./components/wheelModel";
 export default function Home() {
-  const width_pic = 270;
-  const height_pic = 270;
   return (
     <div className="w-screen min-h-screen bg-[url('/bg.jpg')] bg-cover bg-center flex justify-center ">
       <div className="flex flex-col lg:flex-row gap-10 rounded-xl mx-10 my-15 w-full">
