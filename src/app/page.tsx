@@ -12,8 +12,8 @@ export default function Home() {
             height={100} 
             alt="Logo Image"
           />
-          <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-black">CHAIR FOR WALK</h1>
-          <h2 className="text-xl lg:text-3xl xl:text-3xl font-bold  text-black">Rollator SBC multifunction care</h2>
+          <h1 className="text-3xl lg:text-4xl xl:text-5xl font-bold text-black">Fusion Walker Multifunction</h1>
+          <h2 className="text-xl lg:text-3xl xl:text-3xl font-bold  text-black">รถเข็นอเนกประสงค์</h2>
           <p className="text-md md:text-xl text-black mt-4">
             นวัตกรรม walker รุ่นใหม่ มาพร้อมฟังก์ชั่นการใช้งานที่หลากหลายที่เป็นได้ทั้งอุปกรณ์ช่วยเดินเเละรถเข็นสำหรับนั่ง เพื่อเพิ่มความสะดวกสบายและความปลอดภัยให้กับผู้ใช้งาน
           </p>
